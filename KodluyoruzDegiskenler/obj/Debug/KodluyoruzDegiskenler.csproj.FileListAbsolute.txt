@@ -1,0 +1,7 @@
+C:\Users\Gok\Desktop\c# console proje\kodluyoruzodev\KodluyoruzDegiskenler\obj\Debug\KodluyoruzDegiskenler.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\kodluyoruzodev\KodluyoruzDegiskenler\obj\Debug\KodluyoruzDegiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\kodluyoruzodev\KodluyoruzDegiskenler\bin\Debug\KodluyoruzDegiskenler.exe.config
+C:\Users\Gok\Desktop\c# console proje\kodluyoruzodev\KodluyoruzDegiskenler\bin\Debug\KodluyoruzDegiskenler.exe
+C:\Users\Gok\Desktop\c# console proje\kodluyoruzodev\KodluyoruzDegiskenler\bin\Debug\KodluyoruzDegiskenler.pdb
+C:\Users\Gok\Desktop\c# console proje\kodluyoruzodev\KodluyoruzDegiskenler\obj\Debug\KodluyoruzDegiskenler.exe
+C:\Users\Gok\Desktop\c# console proje\kodluyoruzodev\KodluyoruzDegiskenler\obj\Debug\KodluyoruzDegiskenler.pdb
