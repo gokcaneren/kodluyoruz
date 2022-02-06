@@ -1,0 +1,7 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzOperatorler\bin\Debug\KodluyoruzOperatorler.exe.config
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzOperatorler\bin\Debug\KodluyoruzOperatorler.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzOperatorler\bin\Debug\KodluyoruzOperatorler.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzOperatorler\obj\Debug\KodluyoruzOperatorler.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzOperatorler\obj\Debug\KodluyoruzOperatorler.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzOperatorler\obj\Debug\KodluyoruzOperatorler.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzOperatorler\obj\Debug\KodluyoruzOperatorler.pdb
