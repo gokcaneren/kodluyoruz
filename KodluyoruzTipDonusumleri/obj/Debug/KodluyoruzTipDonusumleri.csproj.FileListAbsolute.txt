@@ -1,0 +1,7 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTipDonusumleri\bin\Debug\KodluyoruzTipDonusumleri.exe.config
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTipDonusumleri\bin\Debug\KodluyoruzTipDonusumleri.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTipDonusumleri\bin\Debug\KodluyoruzTipDonusumleri.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTipDonusumleri\obj\Debug\KodluyoruzTipDonusumleri.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTipDonusumleri\obj\Debug\KodluyoruzTipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTipDonusumleri\obj\Debug\KodluyoruzTipDonusumleri.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTipDonusumleri\obj\Debug\KodluyoruzTipDonusumleri.pdb
