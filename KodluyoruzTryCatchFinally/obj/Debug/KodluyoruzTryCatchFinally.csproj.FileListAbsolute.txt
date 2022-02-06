@@ -1,0 +1,7 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTryCatchFinally\bin\Debug\KodluyoruzTryCatchFinally.exe.config
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTryCatchFinally\bin\Debug\KodluyoruzTryCatchFinally.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTryCatchFinally\bin\Debug\KodluyoruzTryCatchFinally.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTryCatchFinally\obj\Debug\KodluyoruzTryCatchFinally.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTryCatchFinally\obj\Debug\KodluyoruzTryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTryCatchFinally\obj\Debug\KodluyoruzTryCatchFinally.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzTryCatchFinally\obj\Debug\KodluyoruzTryCatchFinally.pdb
