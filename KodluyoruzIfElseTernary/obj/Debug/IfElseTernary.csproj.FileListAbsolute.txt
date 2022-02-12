@@ -1,0 +1,7 @@
+C:\Users\Gok\Desktop\c# console proje\IfElseTernary\bin\Debug\IfElseTernary.exe.config
+C:\Users\Gok\Desktop\c# console proje\IfElseTernary\bin\Debug\IfElseTernary.exe
+C:\Users\Gok\Desktop\c# console proje\IfElseTernary\bin\Debug\IfElseTernary.pdb
+C:\Users\Gok\Desktop\c# console proje\IfElseTernary\obj\Debug\IfElseTernary.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\IfElseTernary\obj\Debug\IfElseTernary.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\IfElseTernary\obj\Debug\IfElseTernary.exe
+C:\Users\Gok\Desktop\c# console proje\IfElseTernary\obj\Debug\IfElseTernary.pdb
