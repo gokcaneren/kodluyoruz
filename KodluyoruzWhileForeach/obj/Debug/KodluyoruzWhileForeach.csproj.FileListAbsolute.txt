@@ -1,0 +1,7 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzWhileForeach\bin\Debug\KodluyoruzWhileForeach.exe.config
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzWhileForeach\bin\Debug\KodluyoruzWhileForeach.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzWhileForeach\bin\Debug\KodluyoruzWhileForeach.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzWhileForeach\obj\Debug\KodluyoruzWhileForeach.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzWhileForeach\obj\Debug\KodluyoruzWhileForeach.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzWhileForeach\obj\Debug\KodluyoruzWhileForeach.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzWhileForeach\obj\Debug\KodluyoruzWhileForeach.pdb
