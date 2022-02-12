@@ -1,0 +1,7 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzSwitchCase\bin\Debug\KodluyoruzSwitchCase.exe.config
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzSwitchCase\bin\Debug\KodluyoruzSwitchCase.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzSwitchCase\bin\Debug\KodluyoruzSwitchCase.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzSwitchCase\obj\Debug\KodluyoruzSwitchCase.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzSwitchCase\obj\Debug\KodluyoruzSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzSwitchCase\obj\Debug\KodluyoruzSwitchCase.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzSwitchCase\obj\Debug\KodluyoruzSwitchCase.pdb
