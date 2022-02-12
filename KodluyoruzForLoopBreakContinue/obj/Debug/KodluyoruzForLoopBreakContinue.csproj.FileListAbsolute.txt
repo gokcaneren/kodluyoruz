@@ -1,0 +1,7 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzForLoopBreakContinue\bin\Debug\KodluyoruzForLoopBreakContinue.exe.config
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzForLoopBreakContinue\bin\Debug\KodluyoruzForLoopBreakContinue.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzForLoopBreakContinue\bin\Debug\KodluyoruzForLoopBreakContinue.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzForLoopBreakContinue\obj\Debug\KodluyoruzForLoopBreakContinue.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzForLoopBreakContinue\obj\Debug\KodluyoruzForLoopBreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzForLoopBreakContinue\obj\Debug\KodluyoruzForLoopBreakContinue.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzForLoopBreakContinue\obj\Debug\KodluyoruzForLoopBreakContinue.pdb
