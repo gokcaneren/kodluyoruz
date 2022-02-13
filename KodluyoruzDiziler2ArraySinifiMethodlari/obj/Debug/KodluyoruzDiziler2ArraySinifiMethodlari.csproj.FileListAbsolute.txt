@@ -1,0 +1,7 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler2ArraySinifiMethodlari\bin\Debug\KodluyoruzDiziler2ArraySinifiMethodlari.exe.config
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler2ArraySinifiMethodlari\bin\Debug\KodluyoruzDiziler2ArraySinifiMethodlari.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler2ArraySinifiMethodlari\bin\Debug\KodluyoruzDiziler2ArraySinifiMethodlari.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler2ArraySinifiMethodlari\obj\Debug\KodluyoruzDiziler2ArraySinifiMethodlari.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler2ArraySinifiMethodlari\obj\Debug\KodluyoruzDiziler2ArraySinifiMethodlari.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler2ArraySinifiMethodlari\obj\Debug\KodluyoruzDiziler2ArraySinifiMethodlari.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler2ArraySinifiMethodlari\obj\Debug\KodluyoruzDiziler2ArraySinifiMethodlari.pdb
