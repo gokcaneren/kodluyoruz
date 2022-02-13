@@ -1,0 +1,7 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler\bin\Debug\KodluyoruzDiziler.exe.config
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler\bin\Debug\KodluyoruzDiziler.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler\bin\Debug\KodluyoruzDiziler.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler\obj\Debug\KodluyoruzDiziler.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler\obj\Debug\KodluyoruzDiziler.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler\obj\Debug\KodluyoruzDiziler.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzDiziler\obj\Debug\KodluyoruzDiziler.pdb
